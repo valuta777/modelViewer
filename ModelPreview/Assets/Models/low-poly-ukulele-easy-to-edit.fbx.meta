@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: ea193b194618d4a4ebcedfc36f6ca3ec
+timeCreated: 1479145370
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BackLight
+    100002: bag
+    100004: botp
+    100006: CameraPreset
+    100008: FillLight
+    100010: fret
+    100012: Kasa
+    100014: KeyLight
+    100016: Klavye
+    100018: kul
+    100020: kulaklar
+    100022: LightPreset
+    100024: logo
+    100026: //RootNode
+    100028: Null
+    100030: Null1
+    100032: Null2
+    100034: Null3
+    100036: Null4
+    100038: strings
+    100040: topp
+    100042: TurnTableCamera
+    100044: tut
+    100046: uku
+    400000: BackLight
+    400002: bag
+    400004: botp
+    400006: CameraPreset
+    400008: FillLight
+    400010: fret
+    400012: Kasa
+    400014: KeyLight
+    400016: Klavye
+    400018: kul
+    400020: kulaklar
+    400022: LightPreset
+    400024: logo
+    400026: //RootNode
+    400028: Null
+    400030: Null1
+    400032: Null2
+    400034: Null3
+    400036: Null4
+    400038: strings
+    400040: topp
+    400042: TurnTableCamera
+    400044: tut
+    400046: uku
+    2300000: bag
+    2300002: botp
+    2300004: fret
+    2300006: Kasa
+    2300008: Klavye
+    2300010: kul
+    2300012: logo
+    2300014: strings
+    2300016: topp
+    2300018: tut
+    3300000: bag
+    3300002: botp
+    3300004: fret
+    3300006: Kasa
+    3300008: Klavye
+    3300010: kul
+    3300012: logo
+    3300014: strings
+    3300016: topp
+    3300018: tut
+    4300000: Klavye
+    4300002: fret
+    4300004: botp
+    4300006: topp
+    4300008: logo
+    4300010: Kasa
+    4300012: kul
+    4300014: bag
+    4300016: tut
+    4300018: strings
+    7400000: Base stack
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: uku/strings
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

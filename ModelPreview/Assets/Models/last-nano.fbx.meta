@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 50f4701afca57444da84e5dd43f7a2c7
+timeCreated: 1479145366
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bras2
+    100002: canopy1
+    100004: DirectionalLight
+    100006: drone
+    100008: group1
+    100010: group2
+    100012: helice01
+    100014: helice02
+    100016: helice03
+    100018: helice04
+    100020: //RootNode
+    100022: lensCircle
+    100024: nano THREE
+    100026: pCube2
+    100028: polySurface23
+    100030: polySurface54
+    100032: polySurface57
+    100034: polySurface58
+    100036: polySurface59
+    100038: polySurface60
+    100040: polySurface61
+    100042: transform1
+    400000: bras2
+    400002: canopy1
+    400004: DirectionalLight
+    400006: drone
+    400008: group1
+    400010: group2
+    400012: helice01
+    400014: helice02
+    400016: helice03
+    400018: helice04
+    400020: //RootNode
+    400022: lensCircle
+    400024: nano THREE
+    400026: pCube2
+    400028: polySurface23
+    400030: polySurface54
+    400032: polySurface57
+    400034: polySurface58
+    400036: polySurface59
+    400038: polySurface60
+    400040: polySurface61
+    400042: transform1
+    2300000: bras2
+    2300002: helice01
+    2300004: helice02
+    2300006: helice03
+    2300008: helice04
+    2300010: lensCircle
+    2300012: pCube2
+    2300014: polySurface23
+    2300016: polySurface54
+    2300018: polySurface57
+    2300020: polySurface58
+    2300022: polySurface59
+    2300024: polySurface60
+    2300026: polySurface61
+    3300000: bras2
+    3300002: helice01
+    3300004: helice02
+    3300006: helice03
+    3300008: helice04
+    3300010: lensCircle
+    3300012: pCube2
+    3300014: polySurface23
+    3300016: polySurface54
+    3300018: polySurface57
+    3300020: polySurface58
+    3300022: polySurface59
+    3300024: polySurface60
+    3300026: polySurface61
+    4300000: pCube2
+    4300002: polySurface57
+    4300004: polySurface54
+    4300006: polySurface58
+    4300008: helice02
+    4300010: lensCircle
+    4300012: bras2
+    4300014: helice04
+    4300016: helice01
+    4300018: polySurface23
+    4300020: polySurface61
+    4300022: polySurface59
+    4300024: polySurface60
+    4300026: helice03
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
